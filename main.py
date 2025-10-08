@@ -1,3 +1,5 @@
+# ALUNOS: Yann Pereira Garcia e Clara Joaquim Plantier Marques
+
 import os
 from datetime import datetime, timedelta
 
