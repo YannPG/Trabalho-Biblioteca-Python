@@ -29,7 +29,7 @@ class ArvoreBinaria:
             else:
                 self._inserir_recursivo(no_atual.direita, novo_no)
         else:
-            print(f"Código {novo_no.codigo} já existe e foi ignorado.")
+            pass
         return no_atual
 
     def buscar(self, codigo):
